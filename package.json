@@ -7,7 +7,7 @@
   "files": [
     "dist/jspdf.debug.js",
     "dist/jspdf.min.js",
-    "plugins/canvas.js"
+    "plugins/canvas.js",
     "README.md"
   ],
   "keywords": [
